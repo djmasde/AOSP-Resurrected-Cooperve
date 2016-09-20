@@ -58,7 +58,7 @@ http://ur1.ca/pro8n
 
 + No hay estadisticas de paquetes negativos si estas conectado a una red movil, como pasa en roms basadas en CM 7.2, si es que
 
-  entras al marcador telefonico y marcas *#*#4636#*#*.
+  entras al marcador telefonico y marcas ""*#*#4636#*#*"", sin las comillas.
 
 ## BUGS
 

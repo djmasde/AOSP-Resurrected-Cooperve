@@ -60,6 +60,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + No hay estadisticas de paquetes negativos si estas conectado a una red movil, como pasa en roms basadas en CM 7.2.
 
++ Se ha integrado aScreenshot, ya que la rom base ni era capaz de sacar capturas de pantalla.
+
 ## BUGS
 
 + No hay flash de la camara cuando se graba videos.
@@ -84,6 +86,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 ### Si estas en rom Stock
 
++ Asumo que lo tienes ya rooteado.
+
 + Lo mismo para acceder al menu recovery que lo anterior.
 
 + Wipe data/cache, Wipe cache, install zip from sdcard, instalar el kernel 3.0 de Bieltv3, darle yes, en advanced, reboot recovery.
@@ -95,3 +99,13 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 + Una vez hecho eso en el menu recovery, seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
 
 + Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
+
+### Capturas de pantalla
+
++ Las aplicaciones que aparecen, no todas vienen instalada por defecto, obviamente.
+
++ http://i.imgur.com/bSxyBgn.jpg
+
++ http://i.imgur.com/dorr4Xr.jpg
+
++ http://i.imgur.com/nzXzxre.jpg

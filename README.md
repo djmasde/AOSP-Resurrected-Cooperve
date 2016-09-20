@@ -26,6 +26,10 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + http://ur1.ca/pro8n
 
++ Kernel
+
++ http://ur1.ca/prolp
+
 ## Mejoras
 
 + Mejoras en la gestion de ram, añadido un gestor de tareas portado de Alternative ROM by Gabo.
@@ -91,7 +95,3 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 + Una vez hecho eso en el menu recovery, seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
 
 + Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
-
-## Otros
-
-+ El kernel esta subido en el mismo repositorio, incluyendo el booster, y etc.

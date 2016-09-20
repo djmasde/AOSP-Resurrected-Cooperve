@@ -12,7 +12,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
   La primera vez saldra un dialogo de sistema de ficheros a usar al iniciar link2sd, seleccionar ext3 o fat32, reiniciar.
 
-+ No instalar aplicaciones que consuman mucha ram "facebook para android", favor de usar fb lite para el ACEº, u otras de ese tipo
++ No instalar aplicaciones que consuman mucha ram "facebook para android", favor de usar fb lite para el ACE, u otras de ese tipo
 
   no hay problema con WhatsApp, Telegram u otras normales.
 
@@ -24,7 +24,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Version actual 1.2.1
 
-http://ur1.ca/pro8n
++ http://ur1.ca/pro8n
 
 ## Mejoras
 
@@ -38,9 +38,7 @@ http://ur1.ca/pro8n
 
 + Zeam Launcher por defecto "el launcher mas ligero de android" existente.
 
-+ Solucionado el tema de link2sd y conflicto de script de montaje de la particion sdext2, antes la rom tenia un script que causaba
-
-  conflictos,
++ Solucionado el tema de link2sd y conflicto de script de montaje de la particion sdext2, antes la rom tenia un script que causaba conflictos.
 
 + Arreglado un bug con WhatsApp en el tema de audio de voz, y/o llamadas voip, el primero se entrecortara un poco aun.
 

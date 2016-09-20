@@ -66,3 +66,32 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Ese bug tambien esta presente hasta en la misma rom stock.
 
+## Instalacion
+
++ Si ya tenias una rom instalada basada en cyanogenmod 7.2, en el menu recovery "boton encendido + boton de volumen arriba + boton central"
+
+  Apretar esos 3 botones a la vez por 4 a 5 segundos, hasta que el logo parpadee y se reinicie otra vez.
+
++ Wipe data/cache, Wipe cache, advanced wipe dalvik cache, en mounts and storage, format /system, /data y /cache, ¡no sdcard!.
+
++ Una vez hecho eso en el menu recovery seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
+
++ Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
+
+### Si estas en rom Stock
+
++ Lo mismo para acceder al menu recovery que lo anterior.
+
++ Wipe data/cache, Wipe cache, install zip from sdcard, instalar el kernel 3.0 de Bieltv3, darle yes, en advanced, reboot recovery.
+
++ Wipe data/cache, Wipe cache, en mount and storage, format /system, /data, /cache, ¡no a la sdcard!, advanced wipe dalvik cache
+
+  Esto hara que el sistema de la EEPROM, sea ext4, no rfs como en la stock, ya no se necesita el ext4_formater como en los inicios de CM 7.2.
+
++ Una vez hecho eso en el menu recovery, seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
+
++ Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
+
+## Otros
+
++ El kernel esta subido en el mismo repositorio, incluyendo el booster, y etc.

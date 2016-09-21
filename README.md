@@ -30,6 +30,10 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + http://ur1.ca/prolp
 
++ Gapps minimas "se va el error 492"
+
++ http://www.mediafire.com/download/ulepgpzjrmfjqrb/SlimGappsbymathm2013
+
 ## Mejoras
 
 + Mejoras en la gestion de ram, añadido un gestor de tareas portado de Alternative ROM by Gabo.
@@ -61,6 +65,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 + No hay estadisticas de paquetes negativos si estas conectado a una red movil, como pasa en roms basadas en CM 7.2.
 
 + Se ha integrado aScreenshot, ya que la rom base ni era capaz de sacar capturas de pantalla.
+
++ Se elimino play store por temas del error 492, pero se pasa link de las gapps minimas que quitan el error.
 
 ## BUGS
 

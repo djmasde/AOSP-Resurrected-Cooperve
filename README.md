@@ -22,9 +22,9 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 ###Link de la rom 
 
-+ Version actual 1.2.1
++ Version actual 1.2.2
 
-+ http://ur1.ca/pro8n
++ http://ur1.ca/ps74s
 
 + Kernel
 

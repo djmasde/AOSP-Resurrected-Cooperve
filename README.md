@@ -88,7 +88,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Wipe data/cache, Wipe cache, advanced wipe dalvik cache, en mounts and storage, format /system, /data y /cache, ¡no sdcard!.
 
-+ Una vez hecho eso en el menu recovery seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
++ Una vez hecho eso en el menu recovery seleccionar install zip from sdcard, dar a choose zip from sdcard, seleccionar la .zip copiada a la SD, darle yes.
 
 + Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
 
@@ -106,7 +106,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
   Esto hara que el sistema de la EEPROM, sea ext4, no rfs como en la stock, ya no se necesita el ext4_formater como en los inicios de CM 7.2.
 
-+ Una vez hecho eso en el menu recovery, seleccionar install zip from sdcard, dar a choose zip fron sdcard, seleccionar la .zip copiada a la SD, darle yes.
++ Una vez hecho eso en el menu recovery, seleccionar install zip from sdcard, dar a choose zip from sdcard, seleccionar la .zip copiada a la SD, darle yes.
 
 + Reboot system now, "tardara un poco al primer inicio la rom", no asustarse.
 

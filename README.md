@@ -30,6 +30,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + http://ur1.ca/prolp
 
++ CWM no instalable "por si usas recovery stock y quieres instalar el kernel de bieltv3": http://ur1.ca/pwv31
+
 + Gapps minimas "se va el error 492"
 
 + http://www.mediafire.com/download/ulepgpzjrmfjqrb/SlimGappsbymathm2013
@@ -95,6 +97,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 + Asumo que lo tienes ya rooteado.
 
 + Lo mismo para acceder al menu recovery que lo anterior.
+
++ Usar el CWM que no se instala, en el recovery stock, dale a update from sdcard, instalar el CWM, despues...
 
 + Wipe data/cache, Wipe cache, install zip from sdcard, instalar el kernel 3.0 de Bieltv3, darle yes, en advanced, reboot recovery.
 

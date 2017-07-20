@@ -82,7 +82,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Whastapp hara falsas estadisticas de bateria, si se envia mensajes de voz y subiria a niveles absurdos "50% de uso de bateria" en las estadisticas de uso de bateria, nativa de android. No afecta en el consumo de bateria para nada.
 
-+ A veces lo mismo le pasa a Telegram, pero no se entrecorta los mensajes enviados".
++ A veces lo mismo le pasa a Telegram, pero no se entrecorta los mensajes enviados.
 
 + Ese bug tambien esta presente hasta en la misma rom stock.
 

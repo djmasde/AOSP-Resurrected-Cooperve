@@ -18,6 +18,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Si usas Telegram por temas de arquitectura del Galaxy Ace "armv6" se puede usar hasta la version 3.6.1 sin problemas.
 
++ Si usas Plus Messenger, extraoficialmente hasta la 3.9.0.3 (build universal) se puede usar. Por tema de ser 2.3 y armv6
+
 + En las opciones de Link2sd al instalar una aplicacion nueva, opcion de enlaze automatico a la SD, si es lo quieres asi.
 
 ###Link de la rom 
@@ -70,6 +72,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Se elimino play store por temas del error 492, pero se pasa link de las gapps minimas que quitan el error.
 
++ Soporta también Intext2+ (montar sdext2 como interna)
+
 ## BUGS
 
 + No hay flash de la camara cuando se graba videos.
@@ -77,6 +81,8 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 + El tethering wifi no funciona.
 
 + Whastapp hara falsas estadisticas de bateria, si se envia mensajes de voz y subiria a niveles absurdos "50% de uso de bateria" en las estadisticas de uso de bateria, nativa de android. No afecta en el consumo de bateria para nada.
+
++ A veces lo mismo le pasa a Telegram, pero no se entrecorta los mensajes enviados".
 
 + Ese bug tambien esta presente hasta en la misma rom stock.
 

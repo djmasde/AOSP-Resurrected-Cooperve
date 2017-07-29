@@ -62,8 +62,7 @@ Esta basado en la ROM AOSP GB de Spacecaker, con varias mejoras entre otras...
 
 + Ya integrado el fix de la camara, se puede sacar fotografias con flash sin problemas.
 
-+ Si eres prepago es compatible con el paquete de redes sociales de Claro o cualquier operadora, "no funciona con la app de twitter" en esta ROM.
-
++ Si eres prepago es compatible con el paquete de redes sociales de Claro o cualquier operadora. Funciona el apartado de Twitter con la version 5.47.0
 + Limpieza general...
 
 + No hay estadisticas de paquetes negativos si estas conectado a una red movil, como pasa en roms basadas en CM 7.2.
